@@ -187,6 +187,9 @@ color: red;
     position: relative;
     
 }
+    hr{
+        display: none;
+    }
     .info{
     width: 93.1%;
 padding: 0 50px;
