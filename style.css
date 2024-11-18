@@ -19,7 +19,7 @@ nav ul {
 nav li {
     display: inline-block;
     margin-right: 15px;
-    border-left: 1px solid #ccc;
+    border-left: 2px solid #ccc;
 }
 
 nav a {
