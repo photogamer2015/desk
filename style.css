@@ -1,6 +1,28 @@
 body{
 background-color: aliceblue;
 }
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color:   
+ #333;
+}
 a:hover{
 color: red;
 }
@@ -21,9 +43,7 @@ span{
     padding: 20px;
     margin-top: 1px;
 }
-.navbar {
-    overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
-}
+
 .info{
     text-align: center;
     position: relative;
@@ -37,28 +57,7 @@ padding: 0 50px;
     width: 93.1%;
 padding: 0 50px;
 }
-.button{
-    
-    margin-left: 15%;
-    padding: 16px;
-    background-color: black;
-    color: aliceblue;
-}
-.button:hover{
-transform: scale(1.05);
-color:rgb(129, 228, 120);
-}
-.button2{
-    margin-left: 4%;
-    margin-right: 8%;
-    padding: 18px;
-    background-color: black;
-    color: aliceblue;
-}
-.button2:hover{
-transform: scale(1.05);
-color:rgb(129, 228, 120);
-}
+
 
 .intro{
     text-align: center;
