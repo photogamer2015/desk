@@ -1,6 +1,9 @@
 body{
 background-color: aliceblue;
 }
+h1{
+color: white;
+}
 header {
     background-color: black;
     padding: 20px;
@@ -178,12 +181,6 @@ color: red;
     text-align: center;
 }
 @media (max-width: 800px){
-.logo{
-     width: 50%;
-     height: 50%;
-    margin: 0 auto;
-    margin-left: 15%;
-    position: relative;
     
 }
     hr{
