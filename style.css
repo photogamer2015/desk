@@ -19,7 +19,7 @@ nav ul {
 nav li {
     display: inline-block;
     margin-right: 15px;
-    border-right: 1px solid #ccc;
+    border-right: 2px solid #ccc;
 }
 
 nav a {
@@ -73,7 +73,7 @@ padding: 0 50px;
 }
 .image-container {
     margin-left: 400px;
-    width: 400px; /* Ajusta el tamaño según tus necesidades */
+    width: 200px; /* Ajusta el tamaño según tus necesidades */
     height: auto; /* Mantiene la proporción de la imagen */
     overflow: hidden; /* Oculta cualquier desbordamiento de la imagen */
     position: relative; /* Necesario para el posicionamiento de los elementos hijos */
